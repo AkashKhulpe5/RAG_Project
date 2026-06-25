@@ -1,3 +1,6 @@
+# RAG_Project
+
+
 Transformer Paper RAG
 A local Retrieval Augmented Generation (RAG) system that lets you ask questions about the famous research paper "Attention Is All You Need" using Groq LLM, FAISS, and Sentence Transformers.
 
